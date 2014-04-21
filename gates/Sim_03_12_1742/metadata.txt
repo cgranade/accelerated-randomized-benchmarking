@@ -1,0 +1,6 @@
+Executing date/time	Wed 12 Mar 2014 17:42:48
+Simulation parameters	                                                                                              1           1             1           1                     1                                                                                                  1
+{HstsFn -> SCSingleQubitStochasticHamiltonians, GstsFn -> SCSingleQubitCorrelationFunctions[------, -------------, 1, ------, -------------, 1, 0., -------------, 1], UtogPartFn -> SCSingleQubitTogglingFramePart, BsFn -> {{{0, 1}, {0, 0}}}, AsFn -> {{-----}}}
+                                                                                            100000  2000000000 Pi     100000  2000000000 Pi         2000000000 Pi                                                                                          10000
+Discretization step	0.1
+Total running time	37.6184
