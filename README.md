@@ -1,6 +1,6 @@
 # Accelerated Randomized Benchmarking #
 
-**[Christopher Granade](http://www.cgranade.com/)**, [Christopher Ferrie](http://csferrie.com/) and [D. G. Cory](http://iqc.uwaterloo.ca/iqc-directory/dcory/)
+[Christopher Granade](http://www.cgranade.com/), [Christopher Ferrie](http://csferrie.com/) and [D. G. Cory](http://iqc.uwaterloo.ca/iqc-directory/dcory/)
 
  > [more details](http://www.cgranade.com/research/arb/) | arXiv (**coming soon**)
 
